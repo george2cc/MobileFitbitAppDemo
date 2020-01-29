@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: runner.RunCukeTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 38.547 sec - in runner.RunCukeTest

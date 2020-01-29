@@ -1,0 +1,12 @@
+steps\Versa2DevicePageSetup.class
+utils\Hook.class
+steps\VersaLiteDevicePageSetup.class
+steps\Charge3DevicePageSetup.class
+steps\IonicDevicePageSetup.class
+steps\VersaDevicePageSetup.class
+steps\NoFitBitYetPageSetup.class
+steps\InspireHRDeviceSetup.class
+runner\RunCukeTest.class
+steps\NegativeLoginsSteps.class
+steps\HomePageSteps.class
+steps\AddidasEditionDevicePageSetup.class
